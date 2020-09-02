@@ -4,5 +4,6 @@ crear archivo
 #include<stdlib.h>
 #include<fstream>
 using namespace std;
- int main (){};
+ int main (){
+ };
   
